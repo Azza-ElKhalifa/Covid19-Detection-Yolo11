@@ -37,6 +37,8 @@ This project requires the following libraries:
 
 Ensure all dependencies are installed before running the notebook.
 
+> **Note**: To use project weights, please download best.pt from [here](https://drive.google.com/drive/folders/1eEHI0Gr1bc7exR8aIlAL8R4vIaAE0eh9?usp=drive_link)
+
 ## Task Description
 
 The goal of this notebook is to detect and localize COVID-19 abnormalities in chest radiographs. Specifically, the notebook covers:
